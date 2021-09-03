@@ -27,7 +27,7 @@
 https://docs.google.com/document/d/1Bntrs_HARuGqqy77F8_y1VxJaQ792cZ3BMN0a5yspVk/edit?usp=sharing
 
 ER図
-<...>
+https://drive.google.com/file/d/1ZiGU5-sGtGfBV0lUw_znpPl7fgDn6am4/view?usp=sharing
 
 テーブル提議書
 <...>
