@@ -25,10 +25,13 @@
 ## 設計書
 要件定義書
 https://docs.google.com/document/d/1Bntrs_HARuGqqy77F8_y1VxJaQ792cZ3BMN0a5yspVk/edit?usp=sharing
+
 ER図
 <...>
+
 テーブル提議書
 <...>
+
 アプリケーション詳細設計
 <...>
 
