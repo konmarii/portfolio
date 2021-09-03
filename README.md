@@ -24,10 +24,19 @@
 
 ## 設計書
 要件定義書
+
 https://docs.google.com/document/d/1Bntrs_HARuGqqy77F8_y1VxJaQ792cZ3BMN0a5yspVk/edit?usp=sharing
 
+
+UI Flows
+
+https://drive.google.com/file/d/1RckLnvIa-MykmRMDkTuLECzbje9upHL2/view?usp=sharing
+
+
 ER図
+
 https://drive.google.com/file/d/1ZiGU5-sGtGfBV0lUw_znpPl7fgDn6am4/view?usp=sharing
+
 
 テーブル提議書
 <...>
