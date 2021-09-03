@@ -39,7 +39,7 @@ https://drive.google.com/file/d/1ZiGU5-sGtGfBV0lUw_znpPl7fgDn6am4/view?usp=shari
 
 
 テーブル提議書
-<...>
+https://docs.google.com/spreadsheets/d/1bYVMTiso0Ovs5OACx3qV6-td1z28cId49E95-Mti6YU/edit?usp=sharing
 
 アプリケーション詳細設計
 <...>
