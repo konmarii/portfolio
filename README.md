@@ -23,6 +23,8 @@
 新鮮な季節の野菜をお手頃価格で購入したいとき、献立を決めるとき、なかなか忙しくてお買い物に行けないとき
 
 ## 設計書
+要件定義書
+https://docs.google.com/document/d/1Bntrs_HARuGqqy77F8_y1VxJaQ792cZ3BMN0a5yspVk/edit?usp=sharing
 ER図
 <...>
 テーブル提議書
