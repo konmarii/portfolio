@@ -44,7 +44,8 @@ https://docs.google.com/spreadsheets/d/1bYVMTiso0Ovs5OACx3qV6-td1z28cId49E95-Mti
 
 
 アプリケーション詳細設計
-<...>
+
+https://docs.google.com/spreadsheets/d/122mdx22zb76064Nhn_Hspabe-2gB3u_wpvpbT8_P7Os/edit?usp=sharing
 
 ## チャレンジ要素一覧
 https://docs.google.com/spreadsheets/d/16JloOxdutXSiEQ0THKXGiEnWtNpJ0fdui6xMhwgsiIo/edit?usp=sharing
